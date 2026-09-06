@@ -338,12 +338,12 @@ export default function ContactPage() {
 										<div className="flex items-center gap-2">
 											<Github className="h-4 w-4 flex-shrink-0 text-indigo-500" />
 											<a
-												href="https://github.com/gyminii"
+												href="https://github.com/lminii"
 												target="_blank"
 												rel="noopener noreferrer"
 												className="text-sm hover:underline"
 											>
-												github.com/gyminii
+												github.com/lminii
 											</a>
 										</div>
 										<div className="flex items-center gap-2">
