@@ -349,12 +349,12 @@ export default function ContactPage() {
 										<div className="flex items-center gap-2">
 											<Linkedin className="h-4 w-4 flex-shrink-0 text-indigo-500" />
 											<a
-												href="https://www.linkedin.com/in/gyminii"
+												href="https://www.linkedin.com/in/lminii"
 												target="_blank"
 												rel="noopener noreferrer"
 												className="text-sm hover:underline"
 											>
-												linkedin.com/in/gyminii
+												linkedin.com/in/lminii
 											</a>
 										</div>
 									</div>
